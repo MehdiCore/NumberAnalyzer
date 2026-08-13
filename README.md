@@ -46,6 +46,6 @@
 👨‍💻 Author:
 
 - Mehdi Zohrabi
-- Computer Engineering Student.
+Computer Engineering Student.
 
-- ⭐ If you find this project useful, feel free to star the repository.
+⭐ If you find this project useful, feel free to star the repository.
