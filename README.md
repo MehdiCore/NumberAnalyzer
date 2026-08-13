@@ -24,8 +24,8 @@
 
 - Run the program with python main.py
 - Then enter the number of values and the numbers you want to analyze.
-- Example Output
 
+- Example Output👇
 - average number: 30.0
 - maximum number: 50.0
 - minimum number: 10.0
@@ -37,15 +37,15 @@
 🎯 Purpose:
 
 - This project was created to practice fundamental Python concepts such as:
-- Lists
-- Loops
-- User input
-- Built-in functions
-- Basic arithmetic
+Lists
+Loops
+User input
+Built-in functions
+Basic arithmetic
 
 👨‍💻 Author:
 
 - Mehdi Zohrabi
-Computer Engineering Student.
+- Computer Engineering Student.
 
 ⭐ If you find this project useful, feel free to star the repository.
