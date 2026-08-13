@@ -15,10 +15,10 @@
 
 📁 Project Structure:
 - NumberAnalyzer/
-├── images/
-│ └── output.png
-├── main.py
-└── README.md
+- ├── images/
+- │ └── output.png
+- ├── main.py
+- └── README.md
 
 🚀 Usage:
 
