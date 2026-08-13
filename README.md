@@ -1,5 +1,5 @@
 🔢 Number Analyzer
-A simple Python program that analyzes a set of numbers and calculates their average, maximum, and minimum values.
+- A simple Python program that analyzes a set of numbers and calculates their average, maximum, and minimum values.
 
 ✨ Features:
 
@@ -14,11 +14,11 @@ A simple Python program that analyzes a set of numbers and calculates their aver
 - Python 3
 
 📁 Project Structure:
-NumberAnalyzer/
-├── images/
-│ └── output.png
-├── main.py
-└── README.md
+- NumberAnalyzer/
+- ├── images/
+- │ └── output.png
+- ├── main.py
+- └── README.md
 
 🚀 Usage:
 
