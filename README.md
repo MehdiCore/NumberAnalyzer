@@ -15,15 +15,15 @@
 
 📁 Project Structure:
 - NumberAnalyzer/
-- ├── images/
-- │ └── output.png
-- ├── main.py
-- └── README.md
+├── images/
+│ └── output.png
+├── main.py
+└── README.md
 
 🚀 Usage:
 
 - Run the program with python main.py
-- Then enter the number of values and the numbers you want to analyze.
+Then enter the number of values and the numbers you want to analyze.
 
 - Example Output👇
 - average number: 30.0
@@ -37,11 +37,11 @@
 🎯 Purpose:
 
 - This project was created to practice fundamental Python concepts such as:
-Lists
-Loops
-User input
-Built-in functions
-Basic arithmetic
+- Lists
+- Loops
+- User input
+- Built-in functions
+- Basic arithmetic
 
 👨‍💻 Author:
 
